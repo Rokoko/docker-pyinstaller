@@ -62,4 +62,4 @@ RUN \
 VOLUME /src/
 WORKDIR /src/
 
-ENTRYPOINT ["/entrypoint.sh"]
+ENTRYPOINT []
